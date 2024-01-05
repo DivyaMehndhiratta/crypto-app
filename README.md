@@ -1,5 +1,5 @@
 # React Cryptocurrency App
-Built on React, this cryptocurrency app leverages RESTful calls from the CoinGecko API, specifically utilizing v3 for real-time data retrieval (as of the project's initiation). The user interface is designed with Ant Design, ensuring a sleek and intuitive user experience. Stay updated with the latest cryptocurrency information seamlessly, thanks to the efficient integration of CoinGecko API and the modern UI provided by Ant Design.
+Built on React, this cryptocurrency app leverages RESTful calls from the CoinGecko API, specifically utilizing v3 for real-time data retrieval (as of the project's initiation). The user interface is designed with Ant Design, ensuring a sleek and intuitive user experience. Stay updated with the latest cryptocurrency information seamlessly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
