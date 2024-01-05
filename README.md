@@ -3,6 +3,9 @@ Consolidating RESTFUL calls from the CoinGecko API into a React application. I'l
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Deployed Link
+https://divyamehndhiratta.github.io/crypto-app/#/ 
+
 # Project Structure 
 Generated with `tree` command.
 ```
